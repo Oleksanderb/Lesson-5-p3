@@ -1,0 +1,13 @@
+package L5p3;
+
+public class Main {
+	public static void main(String[] args) {
+		double a=Double.MAX_VALUE;
+		double b=Double.MIN_VALUE;
+		float c=Float.MAX_VALUE;
+		float d=Float.MIN_VALUE;
+		System.out.println(a);
+		System.out.println(b);
+		System.out.println(c);
+		System.out.println(d);
+}}
